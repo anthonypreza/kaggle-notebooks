@@ -1,5 +1,5 @@
-.venv
+data
 .ipynb_checkpoints
-__pycache__
-*.csv
 .vscode
+*.ipynb
+__pycache__
